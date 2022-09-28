@@ -1,6 +1,6 @@
 # Welcome![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mary Margaret Taylor.
 
-## Full Stack Developer
+## Full Stack Developer with emphasis in Front End
 
 Emerging front-end web developer with a background in elementary education. Recently graduated from the Georgia Institute of Technology Full Stack Coding Course. Integrates past experience in education with coding to creatively problem solve, effectively communicate and collaborate with others, and think critically. Uses a lifelong love of learning to continually practice and gain knowledge with new technologies. Desires to work in collaborative environments to build and maintain web applications in order to better others’ lives. Please reach out!
 
